@@ -3,6 +3,6 @@
 - 👀 I’m interested in C++ & AI/ML.
 - 🌱 I’m currently learning C++,Python.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 
